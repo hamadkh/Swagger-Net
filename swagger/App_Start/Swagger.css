@@ -1,0 +1,48 @@
+﻿/*color for the json text*/
+.swagger-ui .opblock-body pre span {
+    color: #ffffff !important;
+}
+
+/*properties for json container*/
+.swagger-ui .opblock-body pre {
+    font-size: 12px;
+    background: #272b2d;
+    font-family: Source Code Pro,Menlo,monospace;
+    font-weight: 600;
+}
+
+/*properties for tryitout buttons*/
+.swagger-ui .btn {
+    font-size: 14px;
+    font-weight: 700;
+    color: #25b044;
+}
+
+/*properties for description*/
+.swagger-ui .response-col_description__inner span {
+    font-size: 12px;
+    font-style: italic;
+    border-radius: 4px;
+    background: #272b2d;
+    font-weight: 600;
+    color: #c1ef65 !important;
+}
+
+/*properties for topheader*/
+.swagger-ui .topbar {
+    background: #e87722;
+}
+
+    .swagger-ui .topbar .download-url-wrapper .download-url-button {
+        display: none;
+    }
+
+    .swagger-ui .topbar .download-url-wrapper input[type="text"] {
+        display: none;
+    }
+
+.swagger-ui .info .title small {
+    font-size: 10px;
+    border-radius: 57px;
+    background: #e87722;
+}
