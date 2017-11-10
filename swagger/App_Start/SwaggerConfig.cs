@@ -248,6 +248,7 @@ namespace swagger
                         // the method as shown below.
                         //
                         //c.CustomAsset("index", thisAssembly, "YourWebApiProject.SwaggerExtensions.index.html");
+                        c.CustomAsset("index", thisAssembly, "swagger.App_Start.index.html");
 
                         // If your API has multiple versions and you've applied the MultipleApiVersions setting
                         // as described above, you can also enable a select box in the swagger-ui, that displays

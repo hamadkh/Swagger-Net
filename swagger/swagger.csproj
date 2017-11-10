@@ -86,6 +86,7 @@
   <ItemGroup>
     <EmbeddedResource Include="App_Start\JavaScript.js" />
     <EmbeddedResource Include="App_Start\Swagger.css" />
+    <EmbeddedResource Include="App_Start\index.html" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
